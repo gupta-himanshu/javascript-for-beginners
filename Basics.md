@@ -21,9 +21,9 @@ such support available.
 ##Important notes:-
 1. The HTML comment closing sequence --> is not recognized by JavaScript, so it should be written as //-->.
 2. If we want to have a script run on some event, such as when a user
-clicks somewhere, then we have to place that script within the <head>...</head>
+clicks somewhere, then we have to place that script within the `<head>...</head>`
 tags.
 3. If we need a script to run as the page loads so that the script
-generates content in the page, then the script goes in the <body>
+generates content in the page, then the script goes in the `<body>`
 portion of the document. In this case, we cannot have any function
 defined using javascript.
