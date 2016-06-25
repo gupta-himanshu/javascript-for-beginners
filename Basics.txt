@@ -19,3 +19,6 @@ has been kept for security reason.
 2. JavaScript cannot be used for networking applications because there is no
 such support available.
 3. JavaScript doesn't have any multithreading or multiprocessor capabilities.
+
+Important notes:-
+1. The HTML comment closing sequence --> is not recognized by JavaScript, so it should be written as //-->.
