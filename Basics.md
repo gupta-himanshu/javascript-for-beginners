@@ -19,7 +19,7 @@ such support available.
 3. JavaScript doesn't have any multithreading or multiprocessor capabilities.
 
 ##Important notes:-
-1. The HTML comment closing sequence --> is not recognized by JavaScript, so it should be written as //-->.
+1. The HTML comment closing sequence `-->` is not recognized by JavaScript, so it should be written as `//-->`.
 2. If we want to have a script run on some event, such as when a user
 clicks somewhere, then we have to place that script within the `<head>...</head>`
 tags.
