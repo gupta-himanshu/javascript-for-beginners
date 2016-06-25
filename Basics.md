@@ -1,5 +1,5 @@
 ##Advantages of JavaScript
-#The merits of using JavaScript are:
+###The merits of using JavaScript are:
 1. Less server interaction: You can validate user input before sending the
 page off to the server. This saves server traffic, which means less load on
 your server.
@@ -12,13 +12,13 @@ and-drop components and sliders to give a Rich Interface to your site
 visitors.
 
 ##Limitations of JavaScript
-#We cannot treat JavaScript as a full-fledged programming language. It lacks the
+###We cannot treat JavaScript as a full-fledged programming language. It lacks the
 following important features:
-*1. Client-side JavaScript does not allow the reading or writing of files. This
+1. Client-side JavaScript does not allow the reading or writing of files. This
 has been kept for security reason.
-*2. JavaScript cannot be used for networking applications because there is no
+2. JavaScript cannot be used for networking applications because there is no
 such support available.
-*3. JavaScript doesn't have any multithreading or multiprocessor capabilities.
+3. JavaScript doesn't have any multithreading or multiprocessor capabilities.
 
-Important notes:-
+##Important notes:-
 1. The HTML comment closing sequence --> is not recognized by JavaScript, so it should be written as //-->.
