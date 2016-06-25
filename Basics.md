@@ -12,8 +12,7 @@ and-drop components and sliders to give a Rich Interface to your site
 visitors.
 
 ##Limitations of JavaScript
-###We cannot treat JavaScript as a full-fledged programming language. It lacks the
-following important features:
+###We cannot treat JavaScript as a full-fledged programming language. It lacks the following important features:
 1. Client-side JavaScript does not allow the reading or writing of files. This
 has been kept for security reason.
 2. JavaScript cannot be used for networking applications because there is no
