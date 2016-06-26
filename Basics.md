@@ -41,3 +41,8 @@ the IEEE 754 standard.
 10. Use the **var** keyword only for declaration or initialization, once for the life
 of any variable name in a document. We should not re-declare same variable
 twice.
+11. JavaScript is **untyped** language. This means that a JavaScript variable can hold
+a value of any data type. Unlike many other languages, you don't have to tell
+JavaScript during variable declaration what type of value the variable will hold.
+12. Also, the value type of a variable can change during the execution of a program and
+JavaScript takes care of it automatically.
