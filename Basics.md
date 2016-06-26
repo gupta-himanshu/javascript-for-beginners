@@ -33,3 +33,7 @@ defined using javascript.
   * **Boolean**, e.g., true or false.
 5. JavaScript defines two trivial data types, **null** and **undefined**, each of which defines only a single value.
 6. JavaScript supports a composite data type known as **object**.
+7. JavaScript does not have understand difference between integer values and floating-
+point values. All numbers in JavaScript are represented as floating-point values.
+8. JavaScript represents numbers using the 64-bit floating-point format, as defined by
+the IEEE 754 standard.
