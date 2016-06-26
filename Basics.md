@@ -32,3 +32,4 @@ defined using javascript.
   * **Strings** of text, e.g., "Hello World" etc.
   * **Boolean**, e.g., true or false.
 5. JavaScript defines two trivial data types, **null** and **undefined**, each of which defines only a single value.
+6. JavaScript supports a composite data type known as **object**.
