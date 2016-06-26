@@ -37,3 +37,4 @@ defined using javascript.
 point values. All numbers in JavaScript are represented as floating-point values.
 8. JavaScript represents numbers using the 64-bit floating-point format, as defined by
 the IEEE 754 standard.
+9. Storing a value in a variable is called **variable initialization**.
