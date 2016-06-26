@@ -28,6 +28,6 @@ generates content in the page, then the script goes in the `<body>`
 portion of the document. In this case, we cannot have any function
 defined using javascript.
 4. Three primitive data types supported by JavaScript are:
-  a. Numbers, e.g., 124, 122.30 etc.
-  b. Strings of text, e.g., "Hello World" etc.
-  c. Boolean, e.g., true or false.
+  * **Numbers**, e.g., 124, 122.30 etc.
+  * **Strings** of text, e.g., "Hello World" etc.
+  * **Boolean**, e.g., true or false.
