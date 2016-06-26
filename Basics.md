@@ -46,3 +46,5 @@ a value of any data type. Unlike many other languages, you don't have to tell
 JavaScript during variable declaration what type of value the variable will hold.
 12. Also, the value type of a variable can change during the execution of a program and
 JavaScript takes care of it automatically.
+13. Within the body of a function, a local variable takes precedence over a global
+variable with the same name.
