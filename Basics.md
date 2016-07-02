@@ -49,3 +49,6 @@ JavaScript takes care of it automatically.
 13. Within the body of a function, a local variable takes precedence over a global
 variable with the same name.
 14. The **for...in** loop is used to loop through an object's properties.
+15. Line breaks are not allowed between the **‘continue’** or **‘break’** statement
+and its label name. Also, there should not be any other statement in between a
+label name and associated loop.
