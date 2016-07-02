@@ -1,6 +1,6 @@
 var x = 1;
 document.write("Entering the loop<br/>");
-while(x < 20) {
+while(x < 10) {
   x = x + 1;
   if(x == 5) {
     continue;
