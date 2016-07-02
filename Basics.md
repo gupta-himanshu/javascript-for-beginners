@@ -48,3 +48,4 @@ JavaScript during variable declaration what type of value the variable will hold
 JavaScript takes care of it automatically.
 13. Within the body of a function, a local variable takes precedence over a global
 variable with the same name.
+14. The **for...in** loop is used to loop through an object's properties.
