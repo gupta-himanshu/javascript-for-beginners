@@ -61,13 +61,13 @@ with the Function() constructor are called **anonymous** functions.
 18. We can specify a function name while creating a literal function as
 follows:
 
-```
-<script type="text/javascript">
-<!--
-var variablename = function FunctionName(Argument List){
-Function Body
-};
-//-->
-</script>
-```
+    ```
+    <script type="text/javascript">
+      <!--
+        var variablename = function FunctionName(Argument List){
+          Function Body
+        };
+      //-->
+    </script>
+    ```
 But this name does not have any significance, so it is not worthwhile.
