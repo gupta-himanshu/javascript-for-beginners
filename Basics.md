@@ -55,3 +55,6 @@ label name and associated loop.
 16. There is a restriction in javascript that function definitions may not
 appear within loops or conditionals. These restrictions on function definitions
 apply only to function declarations with the function statement.
+17. The **Function()** constructor is not passed any argument that
+specifies a name for the function it creates. The **unnamed** functions created
+with the Function() constructor are called **anonymous** functions.
