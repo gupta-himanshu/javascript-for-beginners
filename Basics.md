@@ -52,3 +52,6 @@ variable with the same name.
 15. Line breaks are not allowed between the **‘continue’** or **‘break’** statement
 and its label name. Also, there should not be any other statement in between a
 label name and associated loop.
+16. There is a restriction in javascript that function definitions may not
+appear within loops or conditionals. These restrictions on function definitions
+apply only to function declarations with the function statement.
