@@ -58,3 +58,16 @@ apply only to function declarations with the function statement.
 17. The **Function()** constructor is not passed any argument that
 specifies a name for the function it creates. The **unnamed** functions created
 with the Function() constructor are called **anonymous** functions.
+18. We can specify a function name while creating a literal function as
+follows:
+
+```
+<script type="text/javascript">
+<!--
+var variablename = function FunctionName(Argument List){
+Function Body
+};
+//-->
+</script>
+```
+But this name does not have any significance, so it is not worthwhile.
