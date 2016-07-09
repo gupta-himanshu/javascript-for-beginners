@@ -73,3 +73,6 @@ follows:
 But this name does not have any significance, so it is not worthwhile.
 19. To delete a cookie in javascript, we just need to set its expiry date to a
 time in the past.
+20. **void** is an important keyword in JavaScript which can be used as a unary
+operator that appears before its single operand, which may be of any type. This
+operator specifies an expression to be evaluated without returning a value.
