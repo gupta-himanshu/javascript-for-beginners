@@ -80,3 +80,5 @@ operator specifies an expression to be evaluated without returning a value.
     * **Alert Dialog Box**
     * **Confirmation Dialog Box**
     * **Prompt Dialog Box**
+22. The JavaScript print function **window.print()** prints the current web page when
+executed.
