@@ -76,3 +76,7 @@ time in the past.
 20. **void** is an important keyword in JavaScript which can be used as a unary
 operator that appears before its single operand, which may be of any type. This
 operator specifies an expression to be evaluated without returning a value.
+21. Different Types of Dialog Box:
+    * **Alert Dialog Box**
+    * **Confirmation Dialog Box**
+    * **Prompt Dialog Box**
