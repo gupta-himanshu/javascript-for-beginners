@@ -71,3 +71,5 @@ follows:
     </script>
     ```
 But this name does not have any significance, so it is not worthwhile.
+19. To delete a cookie in javascript, we just need to set its expiry date to a
+time in the past.
