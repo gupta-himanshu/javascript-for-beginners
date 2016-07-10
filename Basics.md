@@ -85,3 +85,5 @@ executed.
 23. There is a small difference between a function and a method – at a
 function is a standalone unit of statements and a method is attached to an
 object and can be referenced by the **this** keyword.
+24. All user-defined objects and built-in objects are descendants of an object called
+**Object**.
