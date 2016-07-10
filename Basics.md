@@ -87,3 +87,5 @@ function is a standalone unit of statements and a method is attached to an
 object and can be referenced by the **this** keyword.
 24. All user-defined objects and built-in objects are descendants of an object called
 **Object**.
+25. The **new** operator is used to create an instance of an object. To create an
+object, the **new** operator is followed by the constructor method.
