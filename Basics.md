@@ -95,3 +95,5 @@ object, the **new** operator is followed by the constructor method. Eg:
     var books = new Array("C++", "Perl", "Java");
     var day = new Date("August 15, 1947");
     ```
+26. A constructor is a function that creates and initializes an object. JavaScript
+provides a special constructor function called **Object()** to build the object.
