@@ -88,4 +88,9 @@ object and can be referenced by the **this** keyword.
 24. All user-defined objects and built-in objects are descendants of an object called
 **Object**.
 25. The **new** operator is used to create an instance of an object. To create an
-object, the **new** operator is followed by the constructor method.
+object, the **new** operator is followed by the constructor method. Eg;
+    ```
+    var employee = new Object();
+    var books = new Array("C++", "Perl", "Java");
+    var day = new Date("August 15, 1947");
+    ```
