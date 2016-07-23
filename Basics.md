@@ -100,4 +100,4 @@ provides a special constructor function called **Object()** to build the object.
 27. The variable contains a reference to the new object. The properties assigned to
 the object are not variables and are not defined with the **var** keyword.
 28. We should use the isNaN() global function to see if a value is an NaN value.
-29. Because NEGATIVE_INFINITY is a constant, it is a read-only property of Number.
+29. Because NEGATIVE_INFINITY and POSITIVE_INFINITY are constants, they are read-only properties of Number.
