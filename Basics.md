@@ -103,3 +103,5 @@ the object are not variables and are not defined with the **var** keyword.
 29. Because NEGATIVE_INFINITY and POSITIVE_INFINITY are constants, they are read-only properties of Number.
 30. Prototype is a global property which is available with almost all the
 objects.
+31. **constructor** returns a reference to the Number function that created the instance's
+prototype.
