@@ -99,3 +99,4 @@ object, the **new** operator is followed by the constructor method. Eg:
 provides a special constructor function called **Object()** to build the object.
 27. The variable contains a reference to the new object. The properties assigned to
 the object are not variables and are not defined with the **var** keyword.
+28. We should use the isNaN() global function to see if a value is an NaN value.
