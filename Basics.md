@@ -105,3 +105,6 @@ the object are not variables and are not defined with the **var** keyword.
 objects.
 31. **constructor** returns a reference to the Number function that created the instance's
 prototype.
+32. The **toString()** method parses its first argument, and attempts to return a string representation
+in the specified radix (base). **radix** is an integer between 2 and 36 specifying 
+the base to use for representing numeric values.
