@@ -101,3 +101,5 @@ provides a special constructor function called **Object()** to build the object.
 the object are not variables and are not defined with the **var** keyword.
 28. We should use the isNaN() global function to see if a value is an NaN value.
 29. Because NEGATIVE_INFINITY and POSITIVE_INFINITY are constants, they are read-only properties of Number.
+30. Prototype is a global property which is available with almost all the
+objects.
