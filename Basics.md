@@ -108,3 +108,5 @@ prototype.
 32. The **toString()** method parses its first argument, and attempts to return a string representation
 in the specified radix (base). **radix** is an integer between 2 and 36 specifying 
 the base to use for representing numeric values.
+33. If *value* parameter of **Boolean** object is omitted or is 0, -0, null, false, NaN, undefined, or the
+empty string (""), the object has an initial value of false.
