@@ -110,3 +110,4 @@ in the specified radix (base). **radix** is an integer between 2 and 36 specifyi
 the base to use for representing numeric values.
 33. If *value* parameter of **Boolean** object is omitted or is 0, -0, null, false, NaN, undefined, or the
 empty string (""), the object has an initial value of false.
+34. JavaScript Boolean **toSource()** method is not compatible with all the browsers.
